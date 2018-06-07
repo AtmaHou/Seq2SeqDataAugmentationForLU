@@ -14,15 +14,16 @@ The following steps show code usage for the ATIS dataset.
 
     python3 run_clustering.py -d atis
 
--- Tips;
+### Tips:
     To remove clustering effects for baseline setting i.e. cluster all data into one class:
+    python3 run_clustering.py -cm no_clustering -d atis
 
 
 - Step2: Prepare data
 
     python3 run_onmt_generation.py  -gd
 
--- Tips:
+### Tips:
     There are some alternatives for baseline setting:
 
     No clustering, Full connect , no index
@@ -41,7 +42,7 @@ The following steps show code usage for the ATIS dataset.
 
     python3 run_onmt_generation.py -t atis_labeled -f
 
--- Tips:
+### Tips:
     Again, alternatives for baseline:
 
     No clustering, Full connect , no index
@@ -60,7 +61,7 @@ The following steps show code usage for the ATIS dataset.
 
     python3 run_onmt_generation.py -t atis_labeled -rf
 
--- Tips:
+### Tips:
 
     For surface realization only baseline:
     python3 run_thesaurus.py -t atis_labeled -rf
@@ -69,7 +70,7 @@ The following steps show code usage for the ATIS dataset.
 
     python3 run_slot_filling_evaluation.py -t atis_labeled -gd xiaoming -cd
 
--- Tips:
+### Tips:
    For surface realization only baseline:
    python3 run_slot_filling_evaluation.py -t atis_labeled -gd xiaoming -cd -rfo
 
