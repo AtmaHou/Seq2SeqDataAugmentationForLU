@@ -1,0 +1,9 @@
+{
+  "model": null,
+  "path": {
+    "GenerationResult": "E:/Projects/Research/TaskOrientedDialogue/data/GenerationResult/",
+    "ClusteringResult": "E:/Projects/Research/TaskOrientedDialogue/data/ClusteringResult/",
+    "RawData": "E:/Projects/Research/TaskOrientedDialogue/data/Stanford/",
+    "DataRoot": "E:/Projects/Research/TaskOrientedDialogue/data/"
+  }
+}
