@@ -268,11 +268,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1937" />
-    <option name="height" value="1038" />
-  </component>
+  <component name="ProjectId" id="1T0cbAacujM1rnW3Fneg0zAsG18" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -388,6 +384,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="GanTest" type="PythonConfigurationType" factoryName="Python">
       <module name="DialogueDiversification" />
@@ -407,6 +406,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="diverse_score_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DialogueDiversification" />
@@ -426,6 +428,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="kaoshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DialogueDiversification" />
@@ -445,6 +450,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="nlp_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DialogueDiversification" />
@@ -464,6 +472,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="seq2seq_translation_tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DialogueDiversification" />
@@ -483,6 +494,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="show cluster result evt" type="PythonConfigurationType" factoryName="Python">
       <module name="DialogueDiversification" />
@@ -502,6 +516,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="show cluster result nv" type="PythonConfigurationType" factoryName="Python">
       <module name="DialogueDiversification" />
@@ -521,6 +538,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="show cluster result wh" type="PythonConfigurationType" factoryName="Python">
       <module name="DialogueDiversification" />
@@ -540,6 +560,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Nosetests for slot_filling_bilstm.test_model" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <module name="DialogueDiversification" />
@@ -555,12 +578,14 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;slot_filling_bilstm.test_model&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.show cluster result wh" />
       <item itemvalue="Python.show cluster result evt" />
       <item itemvalue="Python.show cluster result nv" />
       <item itemvalue="Python.GanTest" />
+      <item itemvalue="Python.kaoshi" />
       <item itemvalue="Python.seq2seq_translation_tutorial" />
       <item itemvalue="Python.8puzzle" />
       <item itemvalue="Python.nlp_tool" />
