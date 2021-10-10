@@ -5,7 +5,26 @@
 
 # Introduction
 
-This repo is code for the COLING 2018 paper: Sequence-to-sequence Data Augmentation for Dialogue Language Understanding.
+This repo is code for the COLING 2018 paper: Sequence-to-sequence Data Augmentation for Dialogue Language Understanding
+
+## Data
+Get ATIS in `Data` dir.
+
+Get full StandfordLU data at [link](https://atmahou.github.io/attachments/StanfordLU.zip), which contains both slot and intent labels for full data.
+To use this data, please cite:
+```
+@inproceedings{hou2018coling,
+	author    = {Yutai Hou and
+	Yijia Liu and
+	Wanxiang Che and
+	Ting Liu},
+	title     = {Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding},
+	booktitle = {Proc. of COLING},
+	pages     = {1234--1245},
+	year      = {2018},
+}
+```
+
 
 ## Get started
 The following steps show code usage for the ATIS dataset.
